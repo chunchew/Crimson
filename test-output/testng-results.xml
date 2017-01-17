@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5632" started-at="2017-01-17T02:12:33Z" finished-at="2017-01-17T02:12:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5632" started-at="2017-01-17T02:12:33Z" finished-at="2017-01-17T02:12:38Z">
+      <class name="test.TestEduLoginWithPageFactory">
+        <test-method status="PASS" signature="setup()[pri:0, instance:test.TestEduLoginWithPageFactory@482f8f11]" name="setup" is-config="true" duration-ms="4693" started-at="2017-01-17T15:12:33Z" finished-at="2017-01-17T15:12:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test_Login_Page_Appear_Correct()[pri:0, instance:test.TestEduLoginWithPageFactory@482f8f11]" name="test_Login_Page_Appear_Correct" duration-ms="314" started-at="2017-01-17T15:12:37Z" finished-at="2017-01-17T15:12:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Login_Page_Appear_Correct -->
+        <test-method status="PASS" signature="test_Login_Correct()[pri:1, instance:test.TestEduLoginWithPageFactory@482f8f11]" name="test_Login_Correct" duration-ms="240" started-at="2017-01-17T15:12:38Z" finished-at="2017-01-17T15:12:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Login_Correct -->
+        <test-method status="PASS" signature="test_Login_InCorrect()[pri:2, instance:test.TestEduLoginWithPageFactory@482f8f11]" name="test_Login_InCorrect" duration-ms="229" started-at="2017-01-17T15:12:38Z" finished-at="2017-01-17T15:12:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Login_InCorrect -->
+        <test-method status="PASS" signature="test_goto_forgetPassword()[pri:3, instance:test.TestEduLoginWithPageFactory@482f8f11]" name="test_goto_forgetPassword" duration-ms="135" started-at="2017-01-17T15:12:38Z" finished-at="2017-01-17T15:12:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_goto_forgetPassword -->
+      </class> <!-- test.TestEduLoginWithPageFactory -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
